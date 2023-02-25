@@ -1,0 +1,60 @@
+table {
+    width: 1200px;
+    margin-left: 30px;
+    margin-top: 20px;
+}
+
+#students th {
+    text-align: left;
+    padding: 10px 25px;
+    border-bottom: 1px solid #190348;
+    border-radius: 2px;
+}
+
+th {
+    font-style: bold;
+    text-align: center;
+}
+
+td {
+    padding: 10px;
+    padding-left: 25px;
+    padding-bottom: 40px;
+    font-style: normal;
+    font-weight: 500;
+    font-size: medium;
+}
+
+table,
+th,
+td {
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+
+input {
+    height: 25px;
+    width: 150px;
+    padding: 10px;
+}
+
+#addnew {
+    width: 200px;
+    height: 50px;
+    background-color: black;
+    color: white;
+    font-size: large;
+}
+
+#savebutton {
+    width: 60px;
+    height: 30px;
+    background-color: black;
+    color: white;
+    cursor: pointer;
+}
+
+h1 {
+    color: white;
+    background-color: black;
+}
